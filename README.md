@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/venomstuio" target="blank"><img src="https://img.shields.io/twitter/follow/venomstuio?logo=twitter&style=for-the-badge" alt="venomstuio" /></a> </p>
 
-- 🔭 I’m currently working on **UI Design**
+- 🔭 I’m currently working on **UI Designer**
 
 - 🌱 I’m currently learning **React**
 
